@@ -1,1 +1,1 @@
-# Simple hangman man game done in python
+# Simple hangman man game in python
